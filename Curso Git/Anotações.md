@@ -14,5 +14,9 @@
 
 [Portugol WebStudio](https://portugol-webstudio.cubos.io)
 
-# Emojis
-## Encontrei um [Site](https://gitmoji.dev) que conta com diversos Emojis para utilizar no Git/Markdown
+## Emojis
+
+### Encontrei um [Site](https://gitmoji.dev) que conta com diversos Emojis para utilizar no Git/Markdown
+
+## Personalizar README do Perfil GitHub
+### Existe uma série de Utilidades de um projeto chamado [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
