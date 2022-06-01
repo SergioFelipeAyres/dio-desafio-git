@@ -13,3 +13,6 @@
 ## IDE Online de Portugol
 
 [Portugol WebStudio](https://portugol-webstudio.cubos.io)
+
+# Emojis
+## Encontrei um [Site](https://gitmoji.dev) que conta com diversos Emojis para utilizar no Git/Markdown
