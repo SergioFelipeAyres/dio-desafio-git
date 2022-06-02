@@ -7,3 +7,7 @@
 ## Site para Documentação
 
 ### Um site que foi recomendado para pesquisar sobre CSS, HTML e afins foi o [Mozilla Developers](https://developer.mozilla.org/pt-BR/docs/Web)
+
+## Site com Dicas de CSS
+
+[CSS-Tricks](https://css-tricks.com)
